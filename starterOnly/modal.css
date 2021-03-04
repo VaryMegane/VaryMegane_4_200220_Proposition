@@ -20,6 +20,7 @@ body {
   max-width: 1300px;
   min-width: 440px; /*proposition ajout pour que le format souhaité reste le meme sur les petits ecrans*/
   margin: 0 auto;
+  overflow-x: hidden; /*proposition d'enlever le scroll horizontal*/
 }
 
 p {
