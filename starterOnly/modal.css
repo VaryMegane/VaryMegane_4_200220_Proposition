@@ -204,6 +204,7 @@ input {
 
 .erreur{
   color: red;
+  font-size: large;
 }
 .text-control {
   margin: 0;
